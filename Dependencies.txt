@@ -1,0 +1,7 @@
+Hyprland (of course)
+Alacritty
+Dolphin
+Wofi
+Waybar
+Hyprpaper
+XWayland

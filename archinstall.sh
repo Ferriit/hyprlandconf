@@ -1,10 +1,10 @@
 #! /bin/bash
 
 sudo su
-spkg install hyprland
-spkg install alacritty
-spkg install dolphin
-spkg install wofi
-spkg install waybar
-spkg install hyprpaper
-spkg install xorg-x11-server-Xwayland
+pacman -S hyprland
+pacman -S alacritty
+pacman -S dolphin
+pacman -S wofi
+pacman -S waybar
+pacman -S hyprpaper
+pacman -S xorg-x11-server-Xwayland

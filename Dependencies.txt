@@ -4,4 +4,4 @@ Dolphin
 Wofi
 Waybar
 Hyprpaper
-XWayland
+xorg-x11-server-Xwayland
